@@ -8,9 +8,9 @@ A VIDEO DEMO (5-10 mins; second best) about the project developments and use of 
 
 # Outline
 ## Introduction
-{What is Important? Overview of the utilization of Generative AI and Multi-Agent Systems in the context of the project, focus on the use of Automated Software Development}
-{What is missing in the state-of-the-art? Define the problem the project addresses.}
-{What are are doing to get there? Clearly outline the report's goals. Describe the limits of the research project and areas the team chose to focus}
+- {What is Important? Overview of the utilization of Generative AI and Multi-Agent Systems in the context of the project, focus on the use of Automated Software Development}
+- {What is missing in the state-of-the-art? Define the problem the project addresses.}
+- {What are are doing to get there? Clearly outline the report's goals. Describe the limits of the research project and areas the team chose to focus}
 
 ## Solution Design
 - {Explain the Use Case or Project Scenario in detail (possibly from Lab 1)}
